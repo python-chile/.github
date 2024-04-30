@@ -10,5 +10,6 @@ En nuestra comunidad, nos esforzamos por fomentar el aprendizaje colaborativo, c
 
 ¡Únete a nosotros y sé parte de esta vibrante comunidad de Python en Chile!
 
-
+## Edición
+Para editar lo que se encuentra en el principal hay que dirigirse a profile y editar el README.md
 
