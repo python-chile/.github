@@ -8,7 +8,6 @@ Somos una **comunidad sin fronteras 🌎**, nos conectamos desde Chile 🇨🇱 
 
 👉 ¿Te gusta `import comunidad`? ¡Aquí ejecutamos ese módulo a escala global! 
 
----
 
 ## 💫 **Nuestra Misión**  
 - **🐍 Ser el referente #1** de Python en Chile (¡y que el mundo nos mire! 🌍👀).  
@@ -16,7 +15,6 @@ Somos una **comunidad sin fronteras 🌎**, nos conectamos desde Chile 🇨🇱 
 - **📚 Educar con pasión** a través de talleres, charlas y recursos accesibles (¡sin miedo a los `SyntaxError`! 🚫😱).  
 - **🌱 Cultivar talentos** para que Chile brille en el mapa tecnológico global. ¡Python Power! ⚡  
 
----
 
 ## 🎉 **Nuestros Eventos**  
 ¡Aquí la magia sucede! ✨  
@@ -33,7 +31,6 @@ Charlas relámpago, desafíos de código y... ¡pizza! 🤌🍕
 *¡La gran fiesta internacional!* 🎆🌐  
 Días de workshops, keynotes inspiradoras y conexiones que cambian vidas. ¡No te lo pierdas! 🚀  
 
----
 
 ## 🚀 **Únete a Nosotros**  
 ¡Queremos que formes parte de esta comunidad! 🐍❤️  
@@ -44,7 +41,6 @@ Días de workshops, keynotes inspiradoras y conexiones que cambian vidas. ¡No t
 
 *¿Qué esperas? ¡Hasta las serpientes más tímidas son bienvenidas!* 🎉y🎈  
 
----
 
 ## 💡 **¿Cómo Contribuir?**  
 ¡Tu código, ideas o energía son claves! 🔑  
@@ -54,7 +50,6 @@ Días de workshops, keynotes inspiradoras y conexiones que cambian vidas. ¡No t
 3. **🎤 Propón una charla**: ¡Queremos escucharte! 🎙️  
 4. **🤝 Colabora en eventos**: Desde organizar hasta repartir stickers. 🏷️  
 
----
 
 **¡Somos Python Chile: donde los `print("Hola mundo")` se convierten en amistades, proyectos y futuro!** 🌟  
 
